@@ -16,6 +16,9 @@
 ### Resultado
 - Teste aprovado
 
+![Teste 1 - Parte 1](./Images/Teste1Parte1.png)<p>
+![Teste 1 - Parte 2](./Images/Teste1Parte2.png)<p>
+
 ## 2. Tentar buscar um produto que não existe na tabela.
 
 ### Pré-condição
@@ -30,6 +33,8 @@
 ### Resultado
 - Teste aprovado
 
+![Teste 2](./Images/teste2.png)<p>
+
 ## 3. Tentar deletar um produto que não existe na tabela.
 
 ### Pré-condição
@@ -43,6 +48,8 @@
 
 ### Resultado
 - Teste aprovado
+
+![Teste 3](./Images/teste3.png)<p>
 
 ## 4. Colisão na inserção de produtos na tabela.
 
@@ -59,6 +66,8 @@
 ### Resultado
 - Teste aprovado
 
+![Teste 4](./Images/teste4.png)<p>
+
 ## 5. Verificar se a função de imprimir exibe corretamente todos os produtos na tabela.
 
 ### Pré-condição
@@ -72,3 +81,6 @@
 
 ### Resultado
 - Teste aprovado
+
+![Teste 5 - Parte 1](./Images/teste5parte1.png)<p>
+![Teste 5 - Parte 2](./Images/teste5parte2.png)<p>
