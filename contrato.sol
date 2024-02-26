@@ -3,7 +3,7 @@
 
 pragma solidity >=0.7.0 <0.9.0;
 
-contract RegisterProduct {
+contract RegistryProduct {
     // Estrutura que define as características de um produto
     struct Product {
         string nameProduct; // Nome do produto
@@ -14,7 +14,7 @@ contract RegisterProduct {
     Product[] public products;
 
     // Função para registrar um novo produto
-    function registerProduct(string memory _nameProduct, uint256 _valueProduct) external {
+    function registryProduct(string memory _nameProduct, uint256 _valueProduct) external {
         // Adiciona um novo produto à lista
         products.push(Product({
             nameProduct: _nameProduct,
